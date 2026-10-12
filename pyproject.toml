@@ -1,0 +1,7 @@
+[project]
+name = "genpark-hybrid-dense-sparse-rrf-reranker-and-citation-verifier-skill"
+version = "1.0.0"
+description = "Fuses dense semantic retrieval and sparse BM25 lexical rankings using Reciprocal Rank Fusion (RRF) for high-precision RAG"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
