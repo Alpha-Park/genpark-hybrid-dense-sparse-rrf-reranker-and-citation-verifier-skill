@@ -4,5 +4,8 @@
   "description": "Fuses dense semantic retrieval and sparse BM25 lexical rankings using Reciprocal Rank Fusion (RRF) for high-precision RAG",
   "entrypoint": "client.py",
   "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
   "license": "MIT"
 }
